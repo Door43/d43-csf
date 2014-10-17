@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[csf:home|Door43 (csf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-csf|d43-csf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-csf/archive/master.zip|d43-csf.zip]]
+
+**Recent Changes**
+{{changes>ns = csf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/csf|Ethnologue data]]
+
